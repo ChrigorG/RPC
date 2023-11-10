@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "AoiuVR99C7agS10kHIgqcFZqWV917J9w0IPvBha91KddZOD+XL4CGjKULHbwz/ctW27bTzmPeM9k2yvehZtRUA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Chrigor\\Documents\\Programação\\C#\\Projeto-RPC-Calculadora-Cliente\\Projeto-RPC-Calculadora-Cliente.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Chrigor\\.nuget\\packages\\grpc.core.api\\2.58.0\\grpc.core.api.2.58.0.nupkg.sha512",
+    "C:\\Users\\Chrigor\\.nuget\\packages\\grpc.tools\\2.59.0\\grpc.tools.2.59.0.nupkg.sha512"
+  ],
+  "logs": []
+}
